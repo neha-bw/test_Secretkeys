@@ -1,0 +1,4 @@
+echo "AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY" >> test.txt
+git add test.txt
+git commit -m "Add fake AWS key"
+git push
